@@ -73,7 +73,7 @@ cmake-build-debug/
 local.properties
 
 # Built application files
-release/output-metadata.json
+**/release/output-metadata.json
 *.apk
 *.ap_
 
